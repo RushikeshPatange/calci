@@ -5,6 +5,10 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "packages/*"
-  ]
+    "packages/*",
+    "test/*"
+  ],
+  "scripts": {
+    "test": "yarn workspace adder test && yarn workspace substractor test"
+  }
 }
