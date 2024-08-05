@@ -1,12 +1,12 @@
 {
-  "name": "substractor",
+  "name": "subtractor",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@calci/substractor": "1.0.0"
+    "@calci/subtractor": "1.0.0"
   },
   "scripts": {
-    "test": "node substractor"
+    "test": "node subtractor"
   }
 }

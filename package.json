@@ -9,6 +9,6 @@
     "test/*"
   ],
   "scripts": {
-    "test": "yarn workspace adder test && yarn workspace substractor test"
+    "test": "yarn workspace adder test && yarn workspace subtractor test"
   }
 }

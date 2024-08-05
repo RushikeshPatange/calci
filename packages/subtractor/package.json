@@ -1,0 +1,10 @@
+{
+  "name": "@calci/subtractor",
+  "version": "1.0.0",
+  "description": "The subtractor from calci",
+  "main": "index.js",
+  "repository": "https://github.com/RushikeshPatange/calci/tree/main/packages/subtractor",
+  "author": "Rushikesh Patange <rushikeshpatange11964@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
