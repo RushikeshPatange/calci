@@ -1,0 +1,10 @@
+{
+  "name": "@calci/adder",
+  "version": "1.0.0",
+  "description": "The adder from calci",
+  "main": "index.js",
+  "repository": "git@github.com:RushikeshPatange/calci/packages/adder",
+  "author": "Rushikesh Patange <rushikeshpatange11964@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
