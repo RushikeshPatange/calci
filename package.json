@@ -1,0 +1,7 @@
+{
+  "description": "The repository that demonstrate workspace integration with monorepo (specifically package-based).",
+  "repository": "git@github.com:RushikeshPatange/calci.git",
+  "author": "Rushikesh Patange <rushikeshpatange11964@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
